@@ -17,3 +17,29 @@ Then applies <b>topic analysis</b>, including:
 <li>LSA for generating topics</li>
 <li>LDiA as alternative analysis with visualisation</li>
 </ol>
+
+<h4>LSA 10 topics on #AstraZeneca Tweets</h4><br>
+From the topic generated, I can quickly organise several events appeared in the 20000 tweets. 
+<ul>
+<li>“moms” finally got their vaccination</li>
+<li>EMA (European Medicines Agency) authorisation towards the AZ vaccine</li>
+<li>Sri Lanka shortages on vaccine and received large AZ from Japan</li>
+<li>AZ vaccine rare blood clot cases</li>
+<li>Blood clot cases related to women contraceptive pills</li>
+<li>People finally getting 2nd vaccination</li>
+</ul>
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/51149107/194109208-13ad7698-3c1b-475a-8892-9351b30fcb9b.png">
+
+<h4>LSA 10 topics #Pfizer Tweets</h4>
+<ul>
+<li>A clip named"This girl is on Pfizer" went viral on TikTok</li>
+<li>EMA (European Medicines Agency) authorisation towards the AZ vaccine</li>
+<li>Sri Lanka shortages on vaccine and received large AZ from Japan</li>
+<li>AZ vaccine rare blood clot cases</li>
+<li>Blood clot cases related to women contraceptive pills</li>
+<li>People finally getting 2nd vaccination</li>
+</ul>
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/51149107/194139210-df8582a2-78b9-494d-8e5d-ea57305f1700.png">
+
+Overall, there are more positive hashtags and mentions about Pfizer vaccine. There seems to be a campaign for Pfizer vaccine that worth further investigate. 
+Whereas AZ is more about its legal aspect and discussion on blood clot cases. 
